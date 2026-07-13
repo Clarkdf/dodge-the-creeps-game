@@ -1,0 +1,34 @@
+/Users/davidclark/dev/projects/godot/tutorial/new-game-project/.godot/mono/temp/bin/Debug/New Game Project.deps.json
+/Users/davidclark/dev/projects/godot/tutorial/new-game-project/.godot/mono/temp/bin/Debug/New Game Project.runtimeconfig.json
+/Users/davidclark/dev/projects/godot/tutorial/new-game-project/.godot/mono/temp/bin/Debug/New Game Project.dll
+/Users/davidclark/dev/projects/godot/tutorial/new-game-project/.godot/mono/temp/bin/Debug/New Game Project.pdb
+/Users/davidclark/dev/projects/godot/tutorial/new-game-project/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/Users/davidclark/dev/projects/godot/tutorial/new-game-project/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/Users/davidclark/dev/projects/godot/tutorial/new-game-project/.godot/mono/temp/obj/Debug/New Game Project.csproj.AssemblyReference.cache
+/Users/davidclark/dev/projects/godot/tutorial/new-game-project/.godot/mono/temp/obj/Debug/New Game Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidclark/dev/projects/godot/tutorial/new-game-project/.godot/mono/temp/obj/Debug/New Game Project.AssemblyInfoInputs.cache
+/Users/davidclark/dev/projects/godot/tutorial/new-game-project/.godot/mono/temp/obj/Debug/New Game Project.AssemblyInfo.cs
+/Users/davidclark/dev/projects/godot/tutorial/new-game-project/.godot/mono/temp/obj/Debug/New Game Project.csproj.CoreCompileInputs.cache
+/Users/davidclark/dev/projects/godot/tutorial/new-game-project/.godot/mono/temp/obj/Debug/New Game.D781FC22.Up2Date
+/Users/davidclark/dev/projects/godot/tutorial/new-game-project/.godot/mono/temp/obj/Debug/New Game Project.dll
+/Users/davidclark/dev/projects/godot/tutorial/new-game-project/.godot/mono/temp/obj/Debug/refint/New Game Project.dll
+/Users/davidclark/dev/projects/godot/tutorial/new-game-project/.godot/mono/temp/obj/Debug/New Game Project.pdb
+/Users/davidclark/dev/projects/godot/tutorial/new-game-project/.godot/mono/temp/obj/Debug/New Game Project.genruntimeconfig.cache
+/Users/davidclark/dev/projects/godot/tutorial/new-game-project/.godot/mono/temp/obj/Debug/ref/New Game Project.dll
+/Users/davidclark/dev/projects/godot/tutorial/dodge-the-creeps/.godot/mono/temp/bin/Debug/New Game Project.deps.json
+/Users/davidclark/dev/projects/godot/tutorial/dodge-the-creeps/.godot/mono/temp/bin/Debug/New Game Project.runtimeconfig.json
+/Users/davidclark/dev/projects/godot/tutorial/dodge-the-creeps/.godot/mono/temp/bin/Debug/New Game Project.dll
+/Users/davidclark/dev/projects/godot/tutorial/dodge-the-creeps/.godot/mono/temp/bin/Debug/New Game Project.pdb
+/Users/davidclark/dev/projects/godot/tutorial/dodge-the-creeps/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/Users/davidclark/dev/projects/godot/tutorial/dodge-the-creeps/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/Users/davidclark/dev/projects/godot/tutorial/dodge-the-creeps/.godot/mono/temp/obj/Debug/New Game Project.csproj.AssemblyReference.cache
+/Users/davidclark/dev/projects/godot/tutorial/dodge-the-creeps/.godot/mono/temp/obj/Debug/New Game Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidclark/dev/projects/godot/tutorial/dodge-the-creeps/.godot/mono/temp/obj/Debug/New Game Project.AssemblyInfoInputs.cache
+/Users/davidclark/dev/projects/godot/tutorial/dodge-the-creeps/.godot/mono/temp/obj/Debug/New Game Project.AssemblyInfo.cs
+/Users/davidclark/dev/projects/godot/tutorial/dodge-the-creeps/.godot/mono/temp/obj/Debug/New Game Project.csproj.CoreCompileInputs.cache
+/Users/davidclark/dev/projects/godot/tutorial/dodge-the-creeps/.godot/mono/temp/obj/Debug/New Game.D781FC22.Up2Date
+/Users/davidclark/dev/projects/godot/tutorial/dodge-the-creeps/.godot/mono/temp/obj/Debug/New Game Project.dll
+/Users/davidclark/dev/projects/godot/tutorial/dodge-the-creeps/.godot/mono/temp/obj/Debug/refint/New Game Project.dll
+/Users/davidclark/dev/projects/godot/tutorial/dodge-the-creeps/.godot/mono/temp/obj/Debug/New Game Project.pdb
+/Users/davidclark/dev/projects/godot/tutorial/dodge-the-creeps/.godot/mono/temp/obj/Debug/New Game Project.genruntimeconfig.cache
+/Users/davidclark/dev/projects/godot/tutorial/dodge-the-creeps/.godot/mono/temp/obj/Debug/ref/New Game Project.dll

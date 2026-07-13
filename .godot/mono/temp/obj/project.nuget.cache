@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1y4pGC4o490=",
+  "success": true,
+  "projectFilePath": "/Users/davidclark/dev/projects/godot/tutorial/dodge-the-creeps/New Game Project.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidclark/.nuget/packages/godot.sourcegenerators/4.7.0/godot.sourcegenerators.4.7.0.nupkg.sha512",
+    "/Users/davidclark/.nuget/packages/godotsharp/4.7.0/godotsharp.4.7.0.nupkg.sha512",
+    "/Users/davidclark/.nuget/packages/godotsharpeditor/4.7.0/godotsharpeditor.4.7.0.nupkg.sha512",
+    "/Users/davidclark/.nuget/packages/microsoft.netcore.app.ref/8.0.28/microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "/Users/davidclark/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.28/microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
